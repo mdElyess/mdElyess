@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mdElyess
 - 👀 I’m interested in problem sloving
-- 🌱 I’m currently learning c/c++ and java
+- 🌱 I’m currently learning spring boot and Angular
 - 📫 How to reach me issaouimohamedilyess@gmail.com
 
 <!---
